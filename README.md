@@ -1,4 +1,4 @@
-[README_AAA.md](https://github.com/user-attachments/files/29818873/README_AAA.md)
+[README.md](https://github.com/user-attachments/files/29818873/README_AAA.md)
 # Geometric Characterization of Abdominal Aortic Aneurysms with PCA
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablillo77/geometric-characterization-of-AAA-with-PCA/blob/main/PCA_Shape_Modes_public.ipynb)
