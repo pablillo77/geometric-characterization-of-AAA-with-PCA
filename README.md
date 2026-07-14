@@ -5,7 +5,7 @@
 
 A **statistical shape model** of abdominal aortic aneurysms (AAA) built from 3D CT-derived geometry. Instead of analyzing each anatomical measurement in isolation, the model finds the **principal directions of shape variation** across a patient cohort, reducing a high-dimensional geometry problem to a handful of interpretable *shape modes*.
 
-MSc thesis project, *Three-dimensional geometric characterization of AAA in a local population*, defended at Universidad Favaloro (Nov 2024).
+MSc thesis project, *Three-dimensional geometric characterization of AAA in a local population*, defended at Universidad Favaloro (Jun 2025).
 
 ---
 
